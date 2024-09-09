@@ -107,7 +107,7 @@ Add a `routes` option to `remix.config.js` and inside call the `registerRoutes` 
  };
 ```
 
-This allows you to use all of the convention-based routing of Remix with ReScript modules by placing them inside the `app/res-routes` director. See [the usage section](#convention-based-routing) for more details.
+This allows you to use all of the convention-based routing of Remix with ReScript modules by placing them inside the `app/res-routes` directory. See [the usage section](#convention-based-routing) for more details.
 
 ### (optional) Git ignore compiled JS
 
